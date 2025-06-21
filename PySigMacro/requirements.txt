@@ -1,0 +1,6 @@
+numpy
+opencv-python
+pandas
+pillow
+pywin32
+scipy
